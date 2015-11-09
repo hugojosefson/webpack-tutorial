@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "bundle": "webpack",
+    "clean": "rm bundle.js || true",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
