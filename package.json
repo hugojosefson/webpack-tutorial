@@ -22,6 +22,8 @@
   },
   "homepage": "https://github.com/hugojosefson/webpack-tutorial#readme",
   "devDependencies": {
+    "css-loader": "^0.22.0",
+    "style-loader": "^0.13.0",
     "webpack": "^1.12.3"
   }
 }
