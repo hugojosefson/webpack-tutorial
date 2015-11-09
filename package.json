@@ -1,0 +1,23 @@
+{
+  "name": "webpack-tutorial",
+  "version": "0.0.0",
+  "description": "This is just me going through the webpack tutorial at http://webpack.github.io/docs/tutorials/getting-started/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugojosefson/webpack-tutorial.git"
+  },
+  "keywords": [
+    "webpack",
+    "tutorial"
+  ],
+  "author": "Hugo Josefson <hugo@josefson.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hugojosefson/webpack-tutorial/issues"
+  },
+  "homepage": "https://github.com/hugojosefson/webpack-tutorial#readme"
+}
