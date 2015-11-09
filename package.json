@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/hugojosefson/webpack-tutorial/issues"
   },
-  "homepage": "https://github.com/hugojosefson/webpack-tutorial#readme"
+  "homepage": "https://github.com/hugojosefson/webpack-tutorial#readme",
+  "devDependencies": {
+    "webpack": "^1.12.3"
+  }
 }
